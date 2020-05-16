@@ -5,7 +5,7 @@
   "background_color": "#0b7eda",
   "description": "MOja pierwsza aplikacja PWA",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://angelm1974.github.io/",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [
